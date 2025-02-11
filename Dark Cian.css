@@ -1,0 +1,42 @@
+body {
+      margin: 0px;
+      color: white;
+      background: black;
+      font-family: "BIZ UDPGothic";
+}
+header,#viewSection {
+      background: #4ef9c1;
+      color: black;
+      text-align: center;
+}
+main {
+      zoom: 170%;
+      text-align: center;
+}
+a {
+      color: black;
+}
+img {
+      border-radius: 10px;
+}
+video {
+      height: 200px;
+      border-radius: 10px;
+}
+section {
+      background: #313131;
+      text-align: center;
+}
+button {
+      width: 200px;
+      height: 40px;
+      border-radius: 10px;
+      background: black;
+      color: white;
+      border: 0ch;
+}
+footer {
+      background: #2e2f2f;
+      color: white;
+      height: 200px;
+}

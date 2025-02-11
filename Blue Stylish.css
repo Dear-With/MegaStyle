@@ -1,0 +1,41 @@
+body {
+      margin: 0px;
+      background: #ebeff3;
+      font-famiy: "GoogleSans";
+}
+header,#viewSection {
+      background: #5bb4f3;
+      color: white;
+      text-align: center;
+}
+main {
+      zoom: 170%;
+      text-align: center;
+}
+a {
+      color: white;
+}
+img {
+      border-radius: 10px;
+}
+video {
+      height: 200px;
+      border-radius: 10px;
+}
+section {
+      background: white;
+      text-align: center;
+}
+button {
+      width: 200px;
+      height: 40px;
+      border-radius: 10px;
+      background: black;
+      color: white;
+      border: 0ch;
+}
+footer {
+      background: #2e2f2f;
+      color: white;
+      height: 200px;
+}
