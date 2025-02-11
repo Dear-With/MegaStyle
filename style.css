@@ -39,3 +39,7 @@ footer {
       color: white;
       height: 200px;
 }
+#Q1,#Q2,#Q3 {
+      background: #5bb4f3;
+      color: white;
+}
