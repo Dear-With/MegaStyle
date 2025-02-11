@@ -1,8 +1,6 @@
 # MegaStyle
 <p>Video</p>
-<video controls src="How to use Mega Style.mp4">
-  
-</video>
+<img src="BlueStylish.png">
 <p>
   MegaStyle offers free CSS.
 </p>
