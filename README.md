@@ -3,4 +3,4 @@
 <p>
   MegaStyle offers free CSS.
 </p>
-<p>&copy;yYDear_With</p>
+<p>&copy;Dear_With</p>
